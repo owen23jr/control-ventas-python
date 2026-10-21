@@ -1,0 +1,19 @@
+# Control de ventas en Python
+
+Programa sencillo para registrar ventas y calcular ingresos, costos y ganancias.
+
+## Funciones
+- Registrar ventas de productos.
+- Guardar los registros en un archivo CSV.
+- Consultar el resumen de ventas.
+- Validar los datos introducidos.
+
+## Tecnologías
+- Python
+- Módulos csv, os y math
+
+## Uso
+Ejecuta `control_ventas.py` con Python. El programa crea `ventas.csv` para almacenar las ventas registradas.
+
+## Estado
+Proyecto de aprendizaje y portafolio. Se recomienda probarlo con datos ficticios antes de utilizarlo en un negocio real.
